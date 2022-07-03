@@ -23,6 +23,7 @@ class Bio extends SoftwareDeveloper {
 }
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
+  hobbies  = ['Video Editing', 'Vlogging', 'Watching web series'];
 }
 ```
 
