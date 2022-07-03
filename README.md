@@ -6,9 +6,6 @@
 </p>
 
 
-
-[![Github](https://img.shields.io/github/followers/Nilesh1409?label=Follow&style=social)](https://github.com/Nilesh1409)
-
 <div size='20px'> Hi! My name is Nilesh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
