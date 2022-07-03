@@ -60,9 +60,9 @@ class Skills extends SoftwareDeveloper {
 <br>
   <br>
   
-[![Nilesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nilesh1409&theme=tokyonight)](https://git.io/praveenscience)
+[![Nilesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nilesh1409&theme=tokyonight)]
 
-| ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=Nilesh1409&show_icons=true&theme=tokyonight) | ![Nilesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HardikThummar97&theme=tokyonight) |
+| ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=Nilesh1409&show_icons=true&theme=tokyonight) | ![Nilesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1409&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1409&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
