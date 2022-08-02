@@ -29,7 +29,7 @@ class Skills extends SoftwareDeveloper {
 
 
 
-<h2> Skills </h2>
+<h2> Skills </h2><h2> Skills </h2>
  
  <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
