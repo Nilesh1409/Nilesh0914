@@ -59,7 +59,7 @@ class Skills extends SoftwareDeveloper {
   <br/>
   <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilesh1409&label=Profile%20views&color=32a846&style=flat" alt="views" />
-<a href="https://github.com/akashkmt?tab=followers"><img src="https://img.shields.io/github/followers/Nilesh1409?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Nilesh1409?tab=followers"><img src="https://img.shields.io/github/followers/Nilesh1409?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   
 <br>
