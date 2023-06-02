@@ -21,7 +21,7 @@ class Bio extends SoftwareDeveloper {
   availability = "Available to hire!!"
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['Python', 'JavaScript', 'HTML', 'CSS', 'React', 'Redux', '\];
+  languages  = ['Python', 'JavaScript', 'HTML', 'CSS', 'React', 'Redux',];
   hobbies  = ['Video Editing', 'Vlogging'];
 }
 ```
